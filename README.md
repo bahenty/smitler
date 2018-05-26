@@ -1,2 +1,2 @@
 # smitler
-Landing page
+[Beauty saloon](https://bahenty.github.io/smitler)
