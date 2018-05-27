@@ -1,6 +1,5 @@
 
 # Smitler Landing page website
----
 
-[To visit click the link!](https://bahenty.github.io/smitler)
+[To visit click this link!](https://bahenty.github.io/smitler)
 
